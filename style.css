@@ -1,0 +1,99 @@
+* {
+    box-sizing: border-box;
+    text-align: center;
+  }
+  
+  body {
+  }
+  
+  header {
+    padding: 20px;
+    margin-bottom: 20px;
+    color: #333;
+    background: #ccc;
+  }
+  
+  #nav {
+    padding: 20px;
+    margin-bottom: 20px;
+    color: #333;
+    background: #ccc;
+  }
+  
+  /*#full {
+    float: left;
+    width: 62%;
+    margin-bottom: 20px;
+    height: 300px;
+    padding: 10px;
+    margin-right: 10px;
+    color:gray;
+    background: #ccc;
+  } */
+
+  #section {
+    float: left;
+    width: 62%;
+    height: 300px;
+    padding: 30px;
+    margin-right: 10px;
+    color: black;
+    background: #ccc;
+  }
+  
+
+  #article {
+    clear: both;
+    height: 200px;
+    text-align: center;
+    padding: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    background:gray;
+  }
+  
+  #div1 {
+    float: left;
+    clear: both;
+    padding: 20px;
+    margin-top: 20px;
+    background: #ccc;
+  }
+  #div2 {
+    clear: both;
+    padding: 20px;
+    margin-top: 20px;
+    background:#ccc;
+  }
+  
+  #div3 {
+    clear: both;
+    padding: 20px;
+    margin-top: 20px;
+    background: #ccc;
+
+  }
+  
+  #aside {
+    margin-bottom: 20px;
+    float: right;
+    width: 32%;
+    height: 300px;
+    padding: 10px;
+    color: gray;
+    background:#ccc;
+  }
+   /*   .clearfix {
+          overflow: auto
+      }*/
+      
+  footer {
+    clear: both;
+    padding: 20px;
+    overflow: auto;
+    margin-top: 20px;
+    color: #333;
+    background: #ccc;
+  }
+
